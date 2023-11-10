@@ -1,0 +1,100 @@
+.hero{
+    background-color: rgb(199, 240, 240);
+    height: 720px;
+}
+.block{
+    display: block;
+    text-align: center;
+}
+.snow{
+    height: 30%;
+    width: 30%;
+    position: absolute;
+    top: 520px;
+    transform: translate();
+    left: 35%;
+}
+.matt{
+    font-family: 'Sacramento', cursive;
+    font-size: 5em;
+    font-weight: 1000;
+    color: rgb(14, 120, 120);
+    text-align: center;
+    position: relative;
+    top: 15%;
+    display: block;
+}
+.pro{
+    text-align: center;
+    position: relative;
+    top: 20%;
+    font-weight: 400;
+    color: rgb(13, 142, 142);
+}
+.underline{
+    text-decoration: underline;
+}
+.clouds{
+    position: absolute;
+    right: 50px;
+    top: 80px;
+}
+.clouds2{
+    position: absolute;
+    top: 300px;
+    left: 100px;
+}
+.bacon{
+    width: 150px;
+    margin-top: 150px;
+    border-radius: 50%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+.hello{
+    color: rgb(13, 142, 142);
+    text-align: center;
+    margin-top: 1.5%;
+    font-size: 250%;
+    font-weight: 400;
+}
+.play{
+    text-align: center;
+}
+.skills{
+    text-align: center;
+    color: rgb(13, 142, 142);
+    margin-top: 50px;
+}
+.design{
+    text-align: center;
+    color: rgb(13, 142, 142);
+}
+.skilled{
+    text-align: center;
+}
+.button{
+    color: rgb(14, 120, 120);
+    border-radius: 50%;
+    text-align: center;
+    margin-top: 50px;
+
+}
+.call{
+    background-color: rgb(14, 120, 120);
+    border-radius: 10%;
+}
+.touch{
+    text-align: center;
+    color: rgb(13, 142, 142);
+    margin-top: 50px;
+}
+.game{
+    text-align: center;
+}
+.foot{
+    background-color: teal;
+    height: 100px;
+    margin-top: 50px;
+}
